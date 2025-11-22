@@ -1,0 +1,7 @@
+{
+  "name": "AutoMedia Agent",
+  "description": "An autonomous agent that converts text scripts and audio into polished video presentations using Generative AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
